@@ -19,4 +19,9 @@ class ArugulaWithoutTypes
             $item = $item;
         });
     }
+
+    public function classParam(ArugulaWithoutTypes $someParam): void
+    {
+        unset($someParam);
+    }
 }
