@@ -3,8 +3,8 @@
 Enforce type declaration on classes methods.
 
 ## Dependencies
- * [gskema/phpcs-type-sniff](http://https://github.com/gskema/phpcs-type-sniff "gskema/phpcs-type-sniff")
- * [squizlabs/PHP_CodeSniffer](http://https://github.com/squizlabs/PHP_CodeSniffer "squizlabs/PHP_CodeSniffer")
+ * [gskema/phpcs-type-sniff](https://github.com/gskema/phpcs-type-sniff)
+ * [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer)
 
 ## Usage
 ```bash
